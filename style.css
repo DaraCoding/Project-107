@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Patrick Hand', cursive;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+}
+#button_start{
+    font-family: 'Patrick Hand', cursive;  
+    font-weight: bolder;
+    font-size: x-large;
+    color: white;
+    letter-spacing: 3px;
+    font-size: x-large;
+}
+
+#result_label{
+    font-family: 'Rubik', sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+.copy_right_footer{
+    font-family: 'Bungee Shade', cursive;
+    background-color: lightgrey;
+    height: 150px;
+    font-size: x-large;
+}
